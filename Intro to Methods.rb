@@ -8,3 +8,7 @@ greeting # Executing the method by name
 greeting # Executing the method again
 #=> "Hello World"
 
+def greeting()
+  puts "Hello World"
+end
+
